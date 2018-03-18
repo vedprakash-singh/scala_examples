@@ -1,0 +1,4 @@
+ved prakash singh have
+years of experience in Analysis, Design, Development, Enhancement and Implementation of Java,
+Scala, Akka, Play Framework, AWS, S3, Spark , Hadoop, HDFS and Elasticsearch based applications along
+with QA knowledge and technical documentation.
